@@ -1,0 +1,25 @@
+#logo{
+    margin-left: 77px;
+    height: 60px;
+    width: 106px;
+    margin-top: 23px;
+    
+}
+header{
+    background-color:black;
+    
+}
+#link{
+    color: #fff;
+    font-size: 20px;
+}
+#body-sec{
+   background-image:url(https://lazza.co.in/admin/uploads/banner/2.jpg);
+   height: 750px;
+   width: 100%;
+   
+   background-size: cover;
+   margin-top: -1px;
+
+    
+}
